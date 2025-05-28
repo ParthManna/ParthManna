@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀I’m a developer<br>🔭 I’m currently working on a Website Project<br>🌱 I’m currently learning Web Development, DSA, C, JAVA
+👀I’m a App developer<br>🔭 I’m currently working on a Android Project<br>🌱 I’m currently learning App Development, DSA, C, JAVA, kotlin, XML 
 
 
 ## 🌐 Socials:
