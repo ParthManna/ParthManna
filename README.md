@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀I’m a App developer<br>🔭 I’m currently working on a Android Project<br>🌱 I’m currently learning App Development, DSA, C, JAVA, kotlin, XML 
+👀I’m a App developer<br>🔭 I’m currently working on a Android and Flutter Project<br>🌱 I’m currently learning App Development, DSA, C, JAVA, kotlin, XML, Dart.
 
 
 ## 🌐 Socials:
